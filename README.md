@@ -1,2 +1,3 @@
 # instadio
-Repositório para entrega do primeiro projeto do bootcamp HTML Web Developer, da Digital Innovation One.
+Primeiro projeto do bootcamp HTML Web Developer, da Digital Innovation One.
+<p>Foi recriada a página inicial do Instagram.</p>
